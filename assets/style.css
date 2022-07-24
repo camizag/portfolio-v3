@@ -1,0 +1,10 @@
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
